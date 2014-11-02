@@ -1230,18 +1230,15 @@ h3.tag-header {
 /* Less than 479px width */
 @media screen and (max-width: 479px) {
   header .container.wide {
-    padding: 80px 20px 30px;
+    padding: 15px 20px 30px;
   }
   
   header {
 	height: 160px;
   }
-  header .shadow {
-    height: 60px;
-  }
   
   header h1 {
-    font-size: 1.25rem;
+    font-size: 1.125rem;
   }
 }
 .login {
