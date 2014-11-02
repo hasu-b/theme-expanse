@@ -1208,7 +1208,12 @@ h3.tag-header {
   header {
     height: 240px;
   }
-  
+  header .container.wide {
+    padding: 40px;
+  }
+  header h1 {
+    font-size: 1.5rem;
+  }
   .post .post-footer .post-author {
     width: 20%;
   }
@@ -1229,7 +1234,7 @@ h3.tag-header {
     height: 210px;
   }
   header h1 {
-    font-size: 1.5rem;
+    font-size: 1.25rem;
   }
   .container {
     width: 100%;
